@@ -5,10 +5,10 @@ class animals {
 	protected int age;
 	protected String chan;
 	
-	public animals(String name, int age, String Loai) {
+	public animals(String name, int age, String chan) {
 		this.name = name;
 		this.age = age;
-		this.chan = Loai;
+		this.chan = chan;
 	}
 }
 
